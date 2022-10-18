@@ -1,0 +1,37 @@
+body{
+   margin: 15px;
+   border: solid 1px black;
+   padding: 10px;
+   
+}
+
+label {
+    display: block;
+    margin-top:2px;
+    
+}
+
+.req {
+    color: red;
+}
+.first{
+    font-size: small;
+    word-spacing: 170px;
+
+}
+.email{
+    border-radius: 30px;
+    
+}
+.fa-star{
+    color: orange;
+  }
+  table{
+    
+     width: 100%;
+    text-align: center;
+    
+}
+tr{
+ font-family: cursive;
+}
